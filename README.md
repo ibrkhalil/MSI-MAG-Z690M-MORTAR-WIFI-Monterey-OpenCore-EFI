@@ -1,0 +1,2 @@
+# MSI-MAG-Z690M-MORTAR-WIFI-Monterey-OpenCore-EFI
+OpenCore EFI for MSI Z690M
